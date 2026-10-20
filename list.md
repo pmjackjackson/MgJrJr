@@ -80,3 +80,4 @@
 - [虚拟电厂热度居高不下，现实落地障碍重重](https://github.com/pmjackjackson/MgJrJr/commit/943a1fcb6de92ea27a0c771d0927a2540a4369bd)
 - [银行盈利有所修复，存款利率很难重回高位](https://github.com/pmjackjackson/MgJrJr/commit/7caf9d146647e8d0ad2b57eeae4cef50689e72c1)
 - [目录差异html报告生成，对比两个目录输出html可视化差异报告](https://github.com/pmjackjackson/MgJrJr/commit/9e5d8219d11adb9e3cb3a9c29014686f4ee4354e)
+- [校园劳动实践登记系统，工时成绩签到导出](https://github.com/pmjackjackson/MgJrJr/commit/8868cf952cf113a9029a9383efa2cb3985b56abc)

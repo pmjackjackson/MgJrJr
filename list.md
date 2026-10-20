@@ -15,3 +15,4 @@
 - [工业AI视觉检测，小样本缺陷识别工程难点](https://github.com/pmjackjackson/MgJrJr/commit/c16096c795124384e9f8822616f53779a012e791)
 - [消费升级与降级并存，市场分层愈发明显](https://github.com/pmjackjackson/MgJrJr/commit/80cad1accecf0be1da564c877cd8eb8295e1c435)
 - [高质量全栈开源资源合集 源码资源含故障排查完整教程](https://github.com/pmjackjackson/MgJrJr/commit/1e9c6bfc73447af297c2565336621c5bb496abb1)
+- [git标签批量重命名脚本，批量重命名仓库现有tag标签](https://github.com/pmjackjackson/MgJrJr/commit/247224aa1abc1da6f38fc558cdf63dcca8dba673)

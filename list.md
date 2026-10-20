@@ -92,3 +92,4 @@
 - [最大努力通知工程 完整源码重试实现最大努力通知](https://github.com/pmjackjackson/MgJrJr/commit/da240d15a867d03f2a77d8603ab9592e96352e7b)
 - [内需提振，需要打通收入、预期、消费完整链条](https://github.com/pmjackjackson/MgJrJr/commit/c105d6c1e94a662744c29f5e21ea916c898d4416)
 - [srt字幕时间轴压缩扩展，整体缩放字幕全部时间轴](https://github.com/pmjackjackson/MgJrJr/commit/25f37b06cfa341c52bcc9f20ba49b55c066b36a1)
+- [边缘K8s集群，海量边缘节点版本碎片化](https://github.com/pmjackjackson/MgJrJr/commit/0a896b4091320ae707db87d58034298b00bb8a6a)

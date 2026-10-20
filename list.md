@@ -43,3 +43,4 @@
 - [开源项目文档增加故障排查完整流程清单](https://github.com/pmjackjackson/MgJrJr/commit/cce8875c8d8aa8580d6a621126ffce4e66d0a758)
 - [模块化消息队列处理开源项目 快速上手配置与模拟消息样例](https://github.com/pmjackjackson/MgJrJr/commit/490af1878a2df8b21487acaf62b3d50c77009f0b)
 - [GitHub 项目文档提交百度站长平台详细步骤](https://github.com/pmjackjackson/MgJrJr/commit/6ca3906f1ca9552e9091be3caba1cac81012b359)
+- [隔代抚养矛盾调解，代际育儿观念冲突化解](https://github.com/pmjackjackson/MgJrJr/commit/02a087c5e45e442787b64e9836d0d0c4410253c3)

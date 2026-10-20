@@ -82,3 +82,4 @@
 - [目录差异html报告生成，对比两个目录输出html可视化差异报告](https://github.com/pmjackjackson/MgJrJr/commit/9e5d8219d11adb9e3cb3a9c29014686f4ee4354e)
 - [校园劳动实践登记系统，工时成绩签到导出](https://github.com/pmjackjackson/MgJrJr/commit/8868cf952cf113a9029a9383efa2cb3985b56abc)
 - [一刻钟医疗服务圈，社区门诊服务提质](https://github.com/pmjackjackson/MgJrJr/commit/bffa9f3b563bfbb8337e401214b8225e1972ca9e)
+- [行业政策调整频率，会增加企业经营不确定性](https://github.com/pmjackjackson/MgJrJr/commit/954333ee92360528aeb894bfecc5f16ef3a9be11)

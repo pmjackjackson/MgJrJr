@@ -130,3 +130,4 @@
 - [跨境服务贸易新业态发展数字服务出口成为外贸新亮点](https://github.com/pmjackjackson/MgJrJr/commit/c2a9c82623d1a305f6e277d36a038b2d4b297a20)
 - [Gitee Pages 镜像站带宽限流影响百度抓取](https://github.com/pmjackjackson/MgJrJr/commit/2e906b6505ad0a920fafbf4d55ccd3e4cf8988f2)
 - [大额医保报销之后大病家庭如何减轻经济负担](https://github.com/pmjackjackson/MgJrJr/commit/2bbff9d08f6599bddb4396575f951cade2f54437)
+- [宏观数据持续修复，小微企业生存依旧艰难](https://github.com/pmjackjackson/MgJrJr/commit/90a5e4ccc86e5d8e9cb440fa749a6df30e637e73)

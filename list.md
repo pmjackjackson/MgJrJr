@@ -187,3 +187,4 @@
 - [AI辅助运维AIOps，告警根因自动定位误报治理](https://github.com/pmjackjackson/MgJrJr/commit/a4baa1241ac3da36dad56eb7f99a811d373ae9d5)
 - [ssh公钥格式标准化工具，修复ssh公钥换行空格错乱格式](https://github.com/pmjackjackson/MgJrJr/commit/d623bc2f687449d4ea39e9fb55444e538d6ddc8a)
 - [本地csr请求subject‑alt‑name解析，解析csr内san扩展字段](https://github.com/pmjackjackson/MgJrJr/commit/0dfcb81b88965995ab73db75e9284c1363d0b2d8)
+- [家庭应急物资储备普及，居民防灾意识提升](https://github.com/pmjackjackson/MgJrJr/commit/084361fdd9f2e533679114219d0004e54c025353)

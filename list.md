@@ -62,3 +62,4 @@
 - [二手汽车流通扩容，二手车车况溯源体系](https://github.com/pmjackjackson/MgJrJr/commit/db3a618081bd6100cfc25186b5035766a066035e)
 - [GitHub 公开知识库加速百度蜘蛛抓取小技巧](https://github.com/pmjackjackson/MgJrJr/commit/7484e3358adb51541924a20ad343b316b21b7666)
 - [Agent工具调用格式异常，LLM输出解析失败处理](https://github.com/pmjackjackson/MgJrJr/commit/c61c6be712e22f65da0f4097a0b262d93670c65f)
+- [耕地地力保护补贴发放哪些农户可以拿到补贴](https://github.com/pmjackjackson/MgJrJr/commit/066d63566b5e22e86d7dd519857ab59d39526438)

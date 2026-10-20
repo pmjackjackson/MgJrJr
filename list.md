@@ -1,3 +1,4 @@
 # # 浏览器脚本清单｜油猴脚本合集
 
 - [模块化组件开源源码库 二次改造参考与部署示例](https://github.com/pmjackjackson/MgJrJr/commit/af983bc1d4795b32239d4eaafc7dd3d425aca7c0)
+- [GitHub用户Gist增量备份下载脚本](https://github.com/pmjackjackson/MgJrJr/commit/430ff715b16c6c52b7c6349c0cd84aa5420f9350)

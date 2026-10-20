@@ -90,3 +90,4 @@
 - [到处传授理财技巧，为何普通人依旧跑不赢市场](https://github.com/pmjackjackson/MgJrJr/commit/185884d18fee7b12ccc57cb941dfc3c55cecbdec)
 - [本地文本gb18030 utf‑8互转工具，批量完成文本编码转换](https://github.com/pmjackjackson/MgJrJr/commit/28ab6df471c96b20a7cd586c49bc61be9f465b3c)
 - [最大努力通知工程 完整源码重试实现最大努力通知](https://github.com/pmjackjackson/MgJrJr/commit/da240d15a867d03f2a77d8603ab9592e96352e7b)
+- [内需提振，需要打通收入、预期、消费完整链条](https://github.com/pmjackjackson/MgJrJr/commit/c105d6c1e94a662744c29f5e21ea916c898d4416)

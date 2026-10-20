@@ -40,3 +40,4 @@
 - [残疾人辅具补贴扩容，降低残障家庭经济压力](https://github.com/pmjackjackson/MgJrJr/commit/cbe96c576751e612f7f7b82134900b1e21057118)
 - [AI眼镜空间语义理解，实时环境感知性能瓶颈](https://github.com/pmjackjackson/MgJrJr/commit/d0a659793e1883367478825b738f167ffd42de51)
 - [多模态大模型落地行业场景AI赋能千行百业真实效果](https://github.com/pmjackjackson/MgJrJr/commit/58d3e7c4b206208e5f13d381418ffd3d1a3bdd53)
+- [开源项目文档增加故障排查完整流程清单](https://github.com/pmjackjackson/MgJrJr/commit/cce8875c8d8aa8580d6a621126ffce4e66d0a758)

@@ -29,3 +29,4 @@
 - [图片色彩拾取统计工具，统计图片主色调色值输出色板](https://github.com/pmjackjackson/MgJrJr/commit/3553e5551a384f684b0ce53bb74bac17da310f69)
 - [轻量可视化开源组件 开源源码搭配页面快速接入实操](https://github.com/pmjackjackson/MgJrJr/commit/278e0f623ad31f7c204cec5908a90ef553926c20)
 - [GitHub 数据开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/pmjackjackson/MgJrJr/commit/e9974fac717f1f919237663e91e8189b79386cc9)
+- [智慧农业设备普及农机智能化赋能现代农业生产效率提升](https://github.com/pmjackjackson/MgJrJr/commit/7a7b62f2a8f2f1f0374021f54b3aa379c27740d2)

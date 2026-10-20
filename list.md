@@ -18,3 +18,4 @@
 - [git标签批量重命名脚本，批量重命名仓库现有tag标签](https://github.com/pmjackjackson/MgJrJr/commit/247224aa1abc1da6f38fc558cdf63dcca8dba673)
 - [Wasm运行时行为不一致，本地正常线上异常](https://github.com/pmjackjackson/MgJrJr/commit/075719767bb5ba33539c6701e31c9632ddab7114)
 - [静态博客快速生成器，Markdown源文件渲染站点自带搜索](https://github.com/pmjackjackson/MgJrJr/commit/20446c4aeda64a3cec85b0ccbf9fa7665b203c3e)
+- [平台算法透明度立法，劳动者工时算法监管](https://github.com/pmjackjackson/MgJrJr/commit/08b1c8e91baacfebb760782269521f21db3212b3)

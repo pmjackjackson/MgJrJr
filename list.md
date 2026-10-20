@@ -108,3 +108,4 @@
 - [创新药热度居高不下，跑通盈利的企业极少](https://github.com/pmjackjackson/MgJrJr/commit/6433fdd74b5be0b30bbb34fc3c51245a46e32678)
 - [Agent人类介入机制，何时需要人工接管任务](https://github.com/pmjackjackson/MgJrJr/commit/3d3bb7d0e6c22f3f27f9896e0ec3d16c2f77820b)
 - [体育用品出海提速国产运动品牌开拓海外市场空间](https://github.com/pmjackjackson/MgJrJr/commit/3b2b5e8b2f87dfda75cabe4ec5511d344b6f2715)
+- [tls证书证书密钥匹配校验，批量校验证书与私钥是否配对](https://github.com/pmjackjackson/MgJrJr/commit/93a4ca0d7826734846f91aca8afa50ff7d3edf31)

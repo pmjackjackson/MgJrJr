@@ -164,3 +164,4 @@
 - [农村自建房动态安全排查长效监管机制](https://github.com/pmjackjackson/MgJrJr/commit/17a4020f46524333765188c6703ab73df19273bf)
 - [AI赋能本地生活服务商家数字化降本增效实际效果](https://github.com/pmjackjackson/MgJrJr/commit/0c0ade6424eab1e90a8892e2a5b48e02a1096351)
 - [开源技术文档把高频问题放到文档靠前位置](https://github.com/pmjackjackson/MgJrJr/commit/eaa2faacc3d6b5b05997f0a367a023d12726c60b)
+- [摄像头设备枚举工具，枚举本地摄像头分辨率支持列表](https://github.com/pmjackjackson/MgJrJr/commit/33c4bc1700f7a0a43a267071787c798dfbe7d44e)

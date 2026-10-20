@@ -185,3 +185,4 @@
 - [可扩展业务工具源码库 全套源码附业务上手实战案例](https://github.com/pmjackjackson/MgJrJr/commit/de0671eb3889920f5e6afad8677bdcea7d2fb6cc)
 - [个人征信报告常见误区科普](https://github.com/pmjackjackson/MgJrJr/commit/a46dd4664d1eef043d88e1a28c706ccf1faecfa5)
 - [AI辅助运维AIOps，告警根因自动定位误报治理](https://github.com/pmjackjackson/MgJrJr/commit/a4baa1241ac3da36dad56eb7f99a811d373ae9d5)
+- [ssh公钥格式标准化工具，修复ssh公钥换行空格错乱格式](https://github.com/pmjackjackson/MgJrJr/commit/d623bc2f687449d4ea39e9fb55444e538d6ddc8a)

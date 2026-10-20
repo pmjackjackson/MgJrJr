@@ -181,3 +181,4 @@
 - [开源项目文档加入日志查看定位故障的方法](https://github.com/pmjackjackson/MgJrJr/commit/0258ffa33f60e1f29eddb5c608a1e315f575b887)
 - [居民财富结构调整，房产占比下降之后资产如何配置](https://github.com/pmjackjackson/MgJrJr/commit/80d10e1736c5ff024a6b8136da796a6d9cdccaec)
 - [git ls‑tree递归导出全部blob，递归导出tree下所有blob哈希路径](https://github.com/pmjackjackson/MgJrJr/commit/876bf1fbaf2bb9591e22c55b0a0e13b3c7bdab6d)
+- [机制可解释性技术，拆解大模型内部神经元行为](https://github.com/pmjackjackson/MgJrJr/commit/f2e46a58254d6de20159541d288adbf28e8753ff)

@@ -17,3 +17,4 @@
 - [高质量全栈开源资源合集 源码资源含故障排查完整教程](https://github.com/pmjackjackson/MgJrJr/commit/1e9c6bfc73447af297c2565336621c5bb496abb1)
 - [git标签批量重命名脚本，批量重命名仓库现有tag标签](https://github.com/pmjackjackson/MgJrJr/commit/247224aa1abc1da6f38fc558cdf63dcca8dba673)
 - [Wasm运行时行为不一致，本地正常线上异常](https://github.com/pmjackjackson/MgJrJr/commit/075719767bb5ba33539c6701e31c9632ddab7114)
+- [静态博客快速生成器，Markdown源文件渲染站点自带搜索](https://github.com/pmjackjackson/MgJrJr/commit/20446c4aeda64a3cec85b0ccbf9fa7665b203c3e)

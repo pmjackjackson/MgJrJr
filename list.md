@@ -138,3 +138,4 @@
 - [企业ESG合规建设，中小微企业承担合规成本的现实压力](https://github.com/pmjackjackson/MgJrJr/commit/dfc2c68e6a40e73c43c2e2d851f076e665da35bf)
 - [AI业务可解释输出，面向业务人员可读推理链路](https://github.com/pmjackjackson/MgJrJr/commit/8a8e17578d246894a047f044e5bffae5296cbfbf)
 - [农村宅基地翻建，翻新旧房需要提前办理审批手续](https://github.com/pmjackjackson/MgJrJr/commit/0d8da0ac904e2c900ef41d76aff72b0a056fa16e)
+- [生物制造产业前景广阔，产业化落地仍面临成本壁垒](https://github.com/pmjackjackson/MgJrJr/commit/86796816c397fd0d6c7a952bc5763e054d25cf85)

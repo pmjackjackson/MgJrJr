@@ -113,3 +113,4 @@
 - [轻量功能脚本开源合集 源码配套运行异常捕获处理示例](https://github.com/pmjackjackson/MgJrJr/commit/f164092059d0120382c2e1fcc35168f993892d2e)
 - [爬虫项目缺少限流，跑崩目标站点被封禁IP](https://github.com/pmjackjackson/MgJrJr/commit/1e4903bb141345222390bdd2702958bce3d13c2d)
 - [竞业限制是什么普通打工人需要留意哪些坑](https://github.com/pmjackjackson/MgJrJr/commit/7949fae00daf2800ec0d409ff6ca069dc6688d94)
+- [k8s cronjob任务配置导出，导出全部定时任务cronjob完整配置](https://github.com/pmjackjackson/MgJrJr/commit/be942f6779096a98905c522277e392a944837ffe)

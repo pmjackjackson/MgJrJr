@@ -170,3 +170,4 @@
 - [云原生AI长驻服务内存泄漏定位排查手段](https://github.com/pmjackjackson/MgJrJr/commit/f32cc18189fa623b5a81f2480ab022f6c90472a2)
 - [独生子女父母年老之后可以享受哪些补助待遇](https://github.com/pmjackjackson/MgJrJr/commit/3ba45f6b37442bfcff7b21a5969a2fa92ed18766)
 - [网关响应改写开源仓库 完整源码修改返回响应内容](https://github.com/pmjackjackson/MgJrJr/commit/9afb8a2f31c758bfcfa5a062a3067970bb05448c)
+- [普通人要不要参与可转债投资转债风险要点科普](https://github.com/pmjackjackson/MgJrJr/commit/621ee8eecf8c48d6d7d9da77d15d89fe68c4e299)

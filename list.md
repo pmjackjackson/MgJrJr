@@ -155,3 +155,4 @@
 - [硬件串口日志分析工具，过滤关键词采集导出硬件日志](https://github.com/pmjackjackson/MgJrJr/commit/e474ac433d40be351029f9d1567f1e3cbaf4e9ae)
 - [本地简易tcp端口扫描脚本，单脚本tcp端口扫描存活检测](https://github.com/pmjackjackson/MgJrJr/commit/6f4415c46bc9a0c6d3a4c8cdfb83d066f0dd62b6)
 - [通用表格组件开源库 二次开发参考与多平台部署演示案例](https://github.com/pmjackjackson/MgJrJr/commit/aadd8095dc137e31164d69a7abd2020aa8700f23)
+- [居民可支配收入增长，如何跟上整体经济发展步伐](https://github.com/pmjackjackson/MgJrJr/commit/ba8b350998a1bb8e7d441759d78a5bbac50d9561)

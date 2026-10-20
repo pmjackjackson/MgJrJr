@@ -176,3 +176,4 @@
 - [终端日志颜色分级开源仓库 完整源码区分不同级别日志色彩](https://github.com/pmjackjackson/MgJrJr/commit/ef9a7857f3e52483154297f00e45ae5f1052cca1)
 - [居民资产配置趋于保守，避险需求持续抬升](https://github.com/pmjackjackson/MgJrJr/commit/9c41d8f0531c9650c5711824291b50205a4ac8ab)
 - [高校专业调整，怎样适配产业真实岗位的人才缺口](https://github.com/pmjackjackson/MgJrJr/commit/b52dec003f97a495e0ad784253feb3edef040e07)
+- [高效缓存 Demo 实战开源源码合集 完整工程附带二次开发样例](https://github.com/pmjackjackson/MgJrJr/commit/64720aefb512b1a65030f4a20f84b7f888bb5703)

@@ -47,3 +47,4 @@
 - [工业旅游兴起工厂研学观光制造企业开辟增收渠道](https://github.com/pmjackjackson/MgJrJr/commit/ccf460e5fcbf2dbe6646e3ccd04b6d9da9ebfcbf)
 - [外贸数据亮眼，普通人感受不到红利](https://github.com/pmjackjackson/MgJrJr/commit/8018034e7dee172e91fbe6e33bbf92e0df0a5493)
 - [极简轻量开源工具合集 完整源码搭配业务集成演示](https://github.com/pmjackjackson/MgJrJr/commit/37e4c2dd90780b7615304db4afa13b9c6caf9326)
+- [全球产业链竞争，本土企业提升核心竞争力的挑战](https://github.com/pmjackjackson/MgJrJr/commit/ecab03125747e805d09a1f2fbbc80b2ba2a4564f)

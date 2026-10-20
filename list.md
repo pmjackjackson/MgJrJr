@@ -115,3 +115,4 @@
 - [竞业限制是什么普通打工人需要留意哪些坑](https://github.com/pmjackjackson/MgJrJr/commit/7949fae00daf2800ec0d409ff6ca069dc6688d94)
 - [k8s cronjob任务配置导出，导出全部定时任务cronjob完整配置](https://github.com/pmjackjackson/MgJrJr/commit/be942f6779096a98905c522277e392a944837ffe)
 - [本地smtp报文解析工具，解析原始smtp邮件报文提取内容](https://github.com/pmjackjackson/MgJrJr/commit/a8276c4493ff1d37d3490d28b8d5c95361732796)
+- [内网自签CA证书生成工具，批量签发HTTPS内网测试证书](https://github.com/pmjackjackson/MgJrJr/commit/9688e13baacecd97a87a8704455a95fe8ce76dfb)

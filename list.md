@@ -105,3 +105,4 @@
 - [文件类型校验开源源码 完整源码校验上传文件真实格式](https://github.com/pmjackjackson/MgJrJr/commit/217e3257781c40c65741c580f7063b5d953def45)
 - [租房租金补贴政策哪些人群可以申领租房补贴](https://github.com/pmjackjackson/MgJrJr/commit/06d57d17a59fb11561f74600a5b39c716e2962d7)
 - [灰度流量切分 Demo 完整源码按比例分发流量灰度测试](https://github.com/pmjackjackson/MgJrJr/commit/4bec02800b3a18e469a7d19e42cab3683c301d9b)
+- [创新药热度居高不下，跑通盈利的企业极少](https://github.com/pmjackjackson/MgJrJr/commit/6433fdd74b5be0b30bbb34fc3c51245a46e32678)

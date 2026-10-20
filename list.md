@@ -136,3 +136,4 @@
 - [鼓励大家消费，普通人却在拼命存钱](https://github.com/pmjackjackson/MgJrJr/commit/9ad2d850dd3b23ef23872f67c4a2ab43d2a6d3b9)
 - [地方财政收支矛盾，会制约公共项目的投入力度](https://github.com/pmjackjackson/MgJrJr/commit/e11abac5cd5f65bcf54d04dfe3a7a3463bcfe5b2)
 - [企业ESG合规建设，中小微企业承担合规成本的现实压力](https://github.com/pmjackjackson/MgJrJr/commit/dfc2c68e6a40e73c43c2e2d851f076e665da35bf)
+- [AI业务可解释输出，面向业务人员可读推理链路](https://github.com/pmjackjackson/MgJrJr/commit/8a8e17578d246894a047f044e5bffae5296cbfbf)

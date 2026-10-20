@@ -70,3 +70,4 @@
 - [静态开源文档如何让百度优先抓取子页面](https://github.com/pmjackjackson/MgJrJr/commit/a31877cb9be8b2aa0800fbfedcc9e0fe60e6e545)
 - [github用户gist版本历史导出，获取gist每一次修订版本内容](https://github.com/pmjackjackson/MgJrJr/commit/5659b0760b76b9ed3c7251978aceb537bae162f7)
 - [多文件全局查找替换源码 完整源码批量修改多个文档内容](https://github.com/pmjackjackson/MgJrJr/commit/3d3a79f13f75dece240a1c59bc9dbbb69dfee334)
+- [金价屡创新高，千万别冲动all in黄金](https://github.com/pmjackjackson/MgJrJr/commit/14094eb8c6ea3cfe91b998e4bbca9c5ee1867d67)

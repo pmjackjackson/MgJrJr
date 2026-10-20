@@ -57,3 +57,4 @@
 - [高质量 GitHub 实战源码项目 源码开放附带调试排错文档](https://github.com/pmjackjackson/MgJrJr/commit/9c4bac4a75f5e6e14e1f70493b4e9ce29f53d2d7)
 - [数据要素政策密集落地，商业化变现依旧难产](https://github.com/pmjackjackson/MgJrJr/commit/d2ff8e9c597954ea4db21c83fa782e0721cc3ff3)
 - [简易生成器开源项目 完整源码生成模拟测试业务数据](https://github.com/pmjackjackson/MgJrJr/commit/2c4ed5f8186e0618d809d89f5993765f3987b27f)
+- [音频增益批量调节脚本，统一音频音量大小](https://github.com/pmjackjackson/MgJrJr/commit/159877c48ffdaaa27349ca65e765ab18b25a2e25)

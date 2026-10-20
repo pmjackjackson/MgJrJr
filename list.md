@@ -133,3 +133,4 @@
 - [宏观数据持续修复，小微企业生存依旧艰难](https://github.com/pmjackjackson/MgJrJr/commit/90a5e4ccc86e5d8e9cb440fa749a6df30e637e73)
 - [地方政府引导基金，怎样规避盲目跟风投资的问题](https://github.com/pmjackjackson/MgJrJr/commit/dece1b1ecaa0e52c15e190a9ccb44640aa56aa21)
 - [AI输出事实校验工具，检测大模型幻觉错误事实校验](https://github.com/pmjackjackson/MgJrJr/commit/d0a9e3c494a8ec0676bc6a406950e0615460801f)
+- [鼓励大家消费，普通人却在拼命存钱](https://github.com/pmjackjackson/MgJrJr/commit/9ad2d850dd3b23ef23872f67c4a2ab43d2a6d3b9)

@@ -8,3 +8,4 @@
 - [CORS 跨域中间件开源仓库 完整源码处理跨域预检 OPTIONS 请求](https://github.com/pmjackjackson/MgJrJr/commit/2bf8abb1e7bc80bace974796c4c96f94941df2da)
 - [Dependabot告警数量爆炸，漏洞无力全部修复](https://github.com/pmjackjackson/MgJrJr/commit/4fcab39a09624f7dceed7d14c779adfcabe3a635)
 - [本地csv csv‑wkt地理字段解析，解析wkt地理坐标字段提取经纬度](https://github.com/pmjackjackson/MgJrJr/commit/8bff6cf687ea95771718b7ccd64cd81eebacd83c)
+- [中国船舶手持订单再创新高，造船行业景气度维持高位运行](https://github.com/pmjackjackson/MgJrJr/commit/478306eae16ff45e60802e63fd5e4118a881847f)

@@ -114,3 +114,4 @@
 - [爬虫项目缺少限流，跑崩目标站点被封禁IP](https://github.com/pmjackjackson/MgJrJr/commit/1e4903bb141345222390bdd2702958bce3d13c2d)
 - [竞业限制是什么普通打工人需要留意哪些坑](https://github.com/pmjackjackson/MgJrJr/commit/7949fae00daf2800ec0d409ff6ca069dc6688d94)
 - [k8s cronjob任务配置导出，导出全部定时任务cronjob完整配置](https://github.com/pmjackjackson/MgJrJr/commit/be942f6779096a98905c522277e392a944837ffe)
+- [本地smtp报文解析工具，解析原始smtp邮件报文提取内容](https://github.com/pmjackjackson/MgJrJr/commit/a8276c4493ff1d37d3490d28b8d5c95361732796)

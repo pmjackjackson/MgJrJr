@@ -64,3 +64,4 @@
 - [Agent工具调用格式异常，LLM输出解析失败处理](https://github.com/pmjackjackson/MgJrJr/commit/c61c6be712e22f65da0f4097a0b262d93670c65f)
 - [耕地地力保护补贴发放哪些农户可以拿到补贴](https://github.com/pmjackjackson/MgJrJr/commit/066d63566b5e22e86d7dd519857ab59d39526438)
 - [大宗商品价格波动，会间接影响上下游企业盈利](https://github.com/pmjackjackson/MgJrJr/commit/3cfa237253dcd81dc2f5503898c6b82bc2af1a72)
+- [新旧产业交替，转型阶段必然伴随部分行业阵痛](https://github.com/pmjackjackson/MgJrJr/commit/30af0e3349abedfa063737e70d509d891cb1bbee)

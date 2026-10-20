@@ -147,3 +147,4 @@
 - [批量生成测试用例开源仓库 完整源码自动生成业务测试案例](https://github.com/pmjackjackson/MgJrJr/commit/44e18704df6da55c6bfafbc15088c48620c2dbf1)
 - [中文文本异体字映射转换，基于异体字表批量转换异体汉字](https://github.com/pmjackjackson/MgJrJr/commit/7be02fe5faf0cffc808a65884d2d85e9d2f5b83f)
 - [pdf批量加水印图片，自定义图片水印批量铺满pdf页面](https://github.com/pmjackjackson/MgJrJr/commit/bb211b7bcc350aacf11172f4444c15cdfddb818d)
+- [婚恋平台强监管，打击套路诱导消费乱象](https://github.com/pmjackjackson/MgJrJr/commit/9694a60498189b42f5c5708c1bc42e095dd1ebe9)

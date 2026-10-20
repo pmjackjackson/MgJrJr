@@ -158,3 +158,4 @@
 - [居民可支配收入增长，如何跟上整体经济发展步伐](https://github.com/pmjackjackson/MgJrJr/commit/ba8b350998a1bb8e7d441759d78a5bbac50d9561)
 - [github graphql游标分页封装工具，处理graphql游标分页避免截断](https://github.com/pmjackjackson/MgJrJr/commit/40c768701e4e8ce0dad57788b6389e5c339d6098)
 - [隐私计算商业化，多方安全计算落地是否为噱头](https://github.com/pmjackjackson/MgJrJr/commit/a0b3da2117cd6edb9a5a884901ece8552ef81dee)
+- [GPU虚拟化mdev技术，细粒度算力切分业务坑点](https://github.com/pmjackjackson/MgJrJr/commit/025f1ee0ba37dc0d5c14412705404f054976be9b)

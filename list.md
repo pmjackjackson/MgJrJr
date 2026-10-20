@@ -32,3 +32,4 @@
 - [智慧农业设备普及农机智能化赋能现代农业生产效率提升](https://github.com/pmjackjackson/MgJrJr/commit/7a7b62f2a8f2f1f0374021f54b3aa379c27740d2)
 - [tcpdump抓包简易解析，解析pcap抓包输出可读http内容](https://github.com/pmjackjackson/MgJrJr/commit/cf048ca0445ff0bd94eccd46eaff7e2cbb549393)
 - [物理世界对抗样本，传感器欺骗诱导智能体行为](https://github.com/pmjackjackson/MgJrJr/commit/44ac49f7050fc7f0fbb19d2c0db7fec8234efcf5)
+- [存款搬家背景下，普通家庭稳健资产配置思路](https://github.com/pmjackjackson/MgJrJr/commit/aa1a5024e4b2facb508696ea86c43a42c1628cd8)

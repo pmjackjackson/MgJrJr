@@ -153,3 +153,4 @@
 - [csv数据透视简易工具，本地csv做透视统计输出汇总表](https://github.com/pmjackjackson/MgJrJr/commit/c8122688dbed6a4e36876e5894329bc193318e0e)
 - [五大单例模式工程 完整源码饿汉懒汉双重检查等实现](https://github.com/pmjackjackson/MgJrJr/commit/fbf24191cb4fc9ecf88ca0aec6157e4b6990ad79)
 - [硬件串口日志分析工具，过滤关键词采集导出硬件日志](https://github.com/pmjackjackson/MgJrJr/commit/e474ac433d40be351029f9d1567f1e3cbaf4e9ae)
+- [本地简易tcp端口扫描脚本，单脚本tcp端口扫描存活检测](https://github.com/pmjackjackson/MgJrJr/commit/6f4415c46bc9a0c6d3a4c8cdfb83d066f0dd62b6)

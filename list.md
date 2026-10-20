@@ -66,3 +66,4 @@
 - [大宗商品价格波动，会间接影响上下游企业盈利](https://github.com/pmjackjackson/MgJrJr/commit/3cfa237253dcd81dc2f5503898c6b82bc2af1a72)
 - [新旧产业交替，转型阶段必然伴随部分行业阵痛](https://github.com/pmjackjackson/MgJrJr/commit/30af0e3349abedfa063737e70d509d891cb1bbee)
 - [K8s GPU碎片合并调度，多模型混部资源浪费](https://github.com/pmjackjackson/MgJrJr/commit/5112f79b01639ea2c75ad88d544612087bf556ed)
+- [外资私募布局国内市场海外资管机构加码中国资产](https://github.com/pmjackjackson/MgJrJr/commit/4de7ac850665d42a2398aa83d4cb4274d8297915)

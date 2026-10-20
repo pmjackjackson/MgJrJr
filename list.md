@@ -31,3 +31,4 @@
 - [GitHub 数据开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/pmjackjackson/MgJrJr/commit/e9974fac717f1f919237663e91e8189b79386cc9)
 - [智慧农业设备普及农机智能化赋能现代农业生产效率提升](https://github.com/pmjackjackson/MgJrJr/commit/7a7b62f2a8f2f1f0374021f54b3aa379c27740d2)
 - [tcpdump抓包简易解析，解析pcap抓包输出可读http内容](https://github.com/pmjackjackson/MgJrJr/commit/cf048ca0445ff0bd94eccd46eaff7e2cbb549393)
+- [物理世界对抗样本，传感器欺骗诱导智能体行为](https://github.com/pmjackjackson/MgJrJr/commit/44ac49f7050fc7f0fbb19d2c0db7fec8234efcf5)

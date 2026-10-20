@@ -23,3 +23,4 @@
 - [AI超融合一体机，边缘私有化快速部署方案](https://github.com/pmjackjackson/MgJrJr/commit/8cd013c2b3d08ace2e126f146b7116c574a4d161)
 - [绿色REITs逐步推出绿色资产证券化迎来发展机遇](https://github.com/pmjackjackson/MgJrJr/commit/1c87efd6310229596940955fcec8571e95e1f4b3)
 - [外贸订单短期波动，会直接影响工厂开工率](https://github.com/pmjackjackson/MgJrJr/commit/dc35255d0ca0572ef738385cae74236d142417c8)
+- [多功能练手开源参考项目 全套源码附日志异常修复方案](https://github.com/pmjackjackson/MgJrJr/commit/dc6c481d3fe1f2ba1e0f4d2a3d6a0d3d881116c5)

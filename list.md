@@ -27,3 +27,4 @@
 - [异步任务异常捕获 Demo 完整源码捕获异步抛出异常](https://github.com/pmjackjackson/MgJrJr/commit/a66a73d8dae7a9b131143deeb568f1321999395e)
 - [URL 编码表单解析源码 完整源码解析 application/x‑www‑form‑data](https://github.com/pmjackjackson/MgJrJr/commit/43cdf0464fde42b2f3b35af11535596799387a3b)
 - [图片色彩拾取统计工具，统计图片主色调色值输出色板](https://github.com/pmjackjackson/MgJrJr/commit/3553e5551a384f684b0ce53bb74bac17da310f69)
+- [轻量可视化开源组件 开源源码搭配页面快速接入实操](https://github.com/pmjackjackson/MgJrJr/commit/278e0f623ad31f7c204cec5908a90ef553926c20)

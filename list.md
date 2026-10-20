@@ -41,3 +41,4 @@
 - [AI眼镜空间语义理解，实时环境感知性能瓶颈](https://github.com/pmjackjackson/MgJrJr/commit/d0a659793e1883367478825b738f167ffd42de51)
 - [多模态大模型落地行业场景AI赋能千行百业真实效果](https://github.com/pmjackjackson/MgJrJr/commit/58d3e7c4b206208e5f13d381418ffd3d1a3bdd53)
 - [开源项目文档增加故障排查完整流程清单](https://github.com/pmjackjackson/MgJrJr/commit/cce8875c8d8aa8580d6a621126ffce4e66d0a758)
+- [模块化消息队列处理开源项目 快速上手配置与模拟消息样例](https://github.com/pmjackjackson/MgJrJr/commit/490af1878a2df8b21487acaf62b3d50c77009f0b)

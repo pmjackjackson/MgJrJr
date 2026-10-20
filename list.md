@@ -73,3 +73,4 @@
 - [金价屡创新高，千万别冲动all in黄金](https://github.com/pmjackjackson/MgJrJr/commit/14094eb8c6ea3cfe91b998e4bbca9c5ee1867d67)
 - [养老理财产品风险识别方法](https://github.com/pmjackjackson/MgJrJr/commit/85361725b06917ff5d7a4b8711ea2878357aae07)
 - [浏览器本地AI增强工具集，网页摘要翻译改写问答全部离线运行](https://github.com/pmjackjackson/MgJrJr/commit/a236dd01340d09447c1432d3c6f26db590e4f351)
+- [开源PDF处理库，解析渲染各类PDF异常文件](https://github.com/pmjackjackson/MgJrJr/commit/aab1b2d06b60d070d165f6133f6bc95f70f576ac)

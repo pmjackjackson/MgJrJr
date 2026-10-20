@@ -94,3 +94,4 @@
 - [srt字幕时间轴压缩扩展，整体缩放字幕全部时间轴](https://github.com/pmjackjackson/MgJrJr/commit/25f37b06cfa341c52bcc9f20ba49b55c066b36a1)
 - [边缘K8s集群，海量边缘节点版本碎片化](https://github.com/pmjackjackson/MgJrJr/commit/0a896b4091320ae707db87d58034298b00bb8a6a)
 - [折叠屏渗透率提升折叠终端产业链成长机会](https://github.com/pmjackjackson/MgJrJr/commit/336d0cd039af568ae7bdbc2c30f3f715cf2987c1)
+- [农信体系改制加速地方农商行整合提升县域金融服务能力](https://github.com/pmjackjackson/MgJrJr/commit/00477626432ea994ef9b4e65ffa2a6ae31180a50)

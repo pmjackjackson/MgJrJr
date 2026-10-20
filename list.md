@@ -195,3 +195,4 @@
 - [Nginx访问日志IP归属解析脚本，统计访问地域](https://github.com/pmjackjackson/MgJrJr/commit/d8d2b9cd47fc9272be7d65394f6dac3349c68c07)
 - [苗木病虫害上报系统，处理方案位置记录登记](https://github.com/pmjackjackson/MgJrJr/commit/45c8b89d0a6e1b1430d530ba47310baddd09330a)
 - [钓鱼攻击AI化，AI生成钓鱼邮件网页极难分辨](https://github.com/pmjackjackson/MgJrJr/commit/e68bd0027b9e503c203bbd1fa331bbac3792c593)
+- [人人向往财富增值，多数人连本金都守不住](https://github.com/pmjackjackson/MgJrJr/commit/c65dd90964bd5e40b215b620c841a50f536edce4)

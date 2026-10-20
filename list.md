@@ -101,3 +101,4 @@
 - [邻里噪音纠纷，遇到噪音扰民普通人维权途径](https://github.com/pmjackjackson/MgJrJr/commit/d54eb1bd59caca7b63e8a7669aa15670975c4786)
 - [github仓库依赖项扫描导出，导出仓库依赖项版本风险告警](https://github.com/pmjackjackson/MgJrJr/commit/93c2f12cb8ace8790cf9c8a287c6f979a5e56470)
 - [都说分散投资能避险，很多人分散等于乱买一通](https://github.com/pmjackjackson/MgJrJr/commit/d7fc1733d699e13258538f1c0f3807bb1b2e0bee)
+- [具身智能行业标准建设，接口、数据集、安全规范](https://github.com/pmjackjackson/MgJrJr/commit/d1a0597710de35d3196960f27b26619d4840e107)

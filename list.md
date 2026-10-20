@@ -126,3 +126,4 @@
 - [商业卫星批量组网卫星互联网民用场景加速落地](https://github.com/pmjackjackson/MgJrJr/commit/fcd0cc7593a36e34d9635e09c405c11512255086)
 - [局域网点对点高速文件传输，大文件分发无需外网跨设备传输](https://github.com/pmjackjackson/MgJrJr/commit/92dd8b157a1e4f26432d35c0e82ac81b8911482f)
 - [mysql视图批量导出工具，批量导出数据库全部视图定义](https://github.com/pmjackjackson/MgJrJr/commit/584ed52e40eb2082cc6013a122ae00e6d936609b)
+- [网页CSS样式提取工具，抓取页面元素css样式导出css片段](https://github.com/pmjackjackson/MgJrJr/commit/a22f0f0f423101bc02661636ae3dd9e2365f1a2d)

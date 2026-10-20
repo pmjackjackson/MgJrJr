@@ -50,3 +50,4 @@
 - [全球产业链竞争，本土企业提升核心竞争力的挑战](https://github.com/pmjackjackson/MgJrJr/commit/ecab03125747e805d09a1f2fbbc80b2ba2a4564f)
 - [时间戳多格式转换源码 完整源码时间戳日期字符串互转](https://github.com/pmjackjackson/MgJrJr/commit/73d18310c5566b06a516e51d705e37581bae0a37)
 - [乡村新时代文明实践站提质，农民精神文化供给](https://github.com/pmjackjackson/MgJrJr/commit/63addc027e0855f59aa24c588a4bc389b2e2e263)
+- [板块轮动速度飞快，追热点大多高位接盘](https://github.com/pmjackjackson/MgJrJr/commit/9d2b30c3a4cb2be05a915ce2c26cb55c5eadfd35)

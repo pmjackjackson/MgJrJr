@@ -199,3 +199,4 @@
 - [就业见习、公益性岗位政策年轻人找工作有哪些帮扶](https://github.com/pmjackjackson/MgJrJr/commit/efda368143c47ca2525e90b334a355f0a56f1df5)
 - [农村宅基地继承子女城镇户口也能继承宅基地吗](https://github.com/pmjackjackson/MgJrJr/commit/45d1474431527fb8c3f8822a67ed05d22e6b39ae)
 - [markdown文档内锚点批量生成，批量为标题生成文档锚点链接](https://github.com/pmjackjackson/MgJrJr/commit/8b1d0408d0f14c85a75cd5532506324e56756524)
+- [TypeScript类型安全约束AI工作流，运行时逃逸问题](https://github.com/pmjackjackson/MgJrJr/commit/afb135081d2c11644704578a9a4e4bda64ac1e83)

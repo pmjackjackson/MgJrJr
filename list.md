@@ -13,3 +13,4 @@
 - [简易 TCP 代理服务开源源码 完整源码实现流量转发中转](https://github.com/pmjackjackson/MgJrJr/commit/a5ae557cc8b4993fa11b436dea7e1de7a12f9d48)
 - [校园活动抽签系统，名单导入随机抽签记录导出](https://github.com/pmjackjackson/MgJrJr/commit/40d6148d3c5198a8a46bc759709774fadab67e4a)
 - [工业AI视觉检测，小样本缺陷识别工程难点](https://github.com/pmjackjackson/MgJrJr/commit/c16096c795124384e9f8822616f53779a012e791)
+- [消费升级与降级并存，市场分层愈发明显](https://github.com/pmjackjackson/MgJrJr/commit/80cad1accecf0be1da564c877cd8eb8295e1c435)

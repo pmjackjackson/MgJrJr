@@ -149,3 +149,4 @@
 - [pdf批量加水印图片，自定义图片水印批量铺满pdf页面](https://github.com/pmjackjackson/MgJrJr/commit/bb211b7bcc350aacf11172f4444c15cdfddb818d)
 - [婚恋平台强监管，打击套路诱导消费乱象](https://github.com/pmjackjackson/MgJrJr/commit/9694a60498189b42f5c5708c1bc42e095dd1ebe9)
 - [研发辅助工具开源分享 源码开放包含自定义功能扩展文档](https://github.com/pmjackjackson/MgJrJr/commit/045020d1505ead4f334faec5dd263534329c038a)
+- [制造业仿真推演，仿真结果与现实产线偏差](https://github.com/pmjackjackson/MgJrJr/commit/1991c95c405a8a8f496a5f388c65dc0464bae29d)

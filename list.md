@@ -183,3 +183,4 @@
 - [git ls‑tree递归导出全部blob，递归导出tree下所有blob哈希路径](https://github.com/pmjackjackson/MgJrJr/commit/876bf1fbaf2bb9591e22c55b0a0e13b3c7bdab6d)
 - [机制可解释性技术，拆解大模型内部神经元行为](https://github.com/pmjackjackson/MgJrJr/commit/f2e46a58254d6de20159541d288adbf28e8753ff)
 - [可扩展业务工具源码库 全套源码附业务上手实战案例](https://github.com/pmjackjackson/MgJrJr/commit/de0671eb3889920f5e6afad8677bdcea7d2fb6cc)
+- [个人征信报告常见误区科普](https://github.com/pmjackjackson/MgJrJr/commit/a46dd4664d1eef043d88e1a28c706ccf1faecfa5)

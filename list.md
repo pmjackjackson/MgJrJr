@@ -35,3 +35,4 @@
 - [存款搬家背景下，普通家庭稳健资产配置思路](https://github.com/pmjackjackson/MgJrJr/commit/aa1a5024e4b2facb508696ea86c43a42c1628cd8)
 - [git补丁差异预览工具，预览patch补丁变更内容不应用](https://github.com/pmjackjackson/MgJrJr/commit/e9e70982593e09fbbc41a0559d14176a9a508748)
 - [C/C++开源项目，系统库版本差异编译失败](https://github.com/pmjackjackson/MgJrJr/commit/780ef331d6ea28f171e0a122e302815c84b20918)
+- [接口自动化实战源码集合 完整实现代码与接口报错排查](https://github.com/pmjackjackson/MgJrJr/commit/2e9239a69fa711081c2484dd3313a5e457266871)

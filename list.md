@@ -151,3 +151,4 @@
 - [研发辅助工具开源分享 源码开放包含自定义功能扩展文档](https://github.com/pmjackjackson/MgJrJr/commit/045020d1505ead4f334faec5dd263534329c038a)
 - [制造业仿真推演，仿真结果与现实产线偏差](https://github.com/pmjackjackson/MgJrJr/commit/1991c95c405a8a8f496a5f388c65dc0464bae29d)
 - [csv数据透视简易工具，本地csv做透视统计输出汇总表](https://github.com/pmjackjackson/MgJrJr/commit/c8122688dbed6a4e36876e5894329bc193318e0e)
+- [五大单例模式工程 完整源码饿汉懒汉双重检查等实现](https://github.com/pmjackjackson/MgJrJr/commit/fbf24191cb4fc9ecf88ca0aec6157e4b6990ad79)

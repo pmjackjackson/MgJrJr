@@ -68,3 +68,4 @@
 - [K8s GPU碎片合并调度，多模型混部资源浪费](https://github.com/pmjackjackson/MgJrJr/commit/5112f79b01639ea2c75ad88d544612087bf556ed)
 - [外资私募布局国内市场海外资管机构加码中国资产](https://github.com/pmjackjackson/MgJrJr/commit/4de7ac850665d42a2398aa83d4cb4274d8297915)
 - [静态开源文档如何让百度优先抓取子页面](https://github.com/pmjackjackson/MgJrJr/commit/a31877cb9be8b2aa0800fbfedcc9e0fe60e6e545)
+- [github用户gist版本历史导出，获取gist每一次修订版本内容](https://github.com/pmjackjackson/MgJrJr/commit/5659b0760b76b9ed3c7251978aceb537bae162f7)

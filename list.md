@@ -7,3 +7,4 @@
 - [mysql存储函数批量导出，导出库内全部存储函数源码](https://github.com/pmjackjackson/MgJrJr/commit/d906de8b61578016587da71820960b80c2958d03)
 - [CORS 跨域中间件开源仓库 完整源码处理跨域预检 OPTIONS 请求](https://github.com/pmjackjackson/MgJrJr/commit/2bf8abb1e7bc80bace974796c4c96f94941df2da)
 - [Dependabot告警数量爆炸，漏洞无力全部修复](https://github.com/pmjackjackson/MgJrJr/commit/4fcab39a09624f7dceed7d14c779adfcabe3a635)
+- [本地csv csv‑wkt地理字段解析，解析wkt地理坐标字段提取经纬度](https://github.com/pmjackjackson/MgJrJr/commit/8bff6cf687ea95771718b7ccd64cd81eebacd83c)

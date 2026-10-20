@@ -5,3 +5,4 @@
 - [开源项目文档增加真实测试环境硬件配置信息](https://github.com/pmjackjackson/MgJrJr/commit/b75cad1d90929b5294cde65aece1841c3a9453cb)
 - [工业机器人国内渗透率提升工厂自动化改造加速推进](https://github.com/pmjackjackson/MgJrJr/commit/72aae1ac9a6606e634cd7dcd1fd69eb6519ae90e)
 - [mysql存储函数批量导出，导出库内全部存储函数源码](https://github.com/pmjackjackson/MgJrJr/commit/d906de8b61578016587da71820960b80c2958d03)
+- [CORS 跨域中间件开源仓库 完整源码处理跨域预检 OPTIONS 请求](https://github.com/pmjackjackson/MgJrJr/commit/2bf8abb1e7bc80bace974796c4c96f94941df2da)

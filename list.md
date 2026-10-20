@@ -53,3 +53,4 @@
 - [板块轮动速度飞快，追热点大多高位接盘](https://github.com/pmjackjackson/MgJrJr/commit/9d2b30c3a4cb2be05a915ce2c26cb55c5eadfd35)
 - [储能系统价格下行行业经济性提升打开更大应用场景](https://github.com/pmjackjackson/MgJrJr/commit/e264a06f5d7deaa7dc20ae728687fba77bbb05e9)
 - [Markdown 文档解析开源仓库 完整源码解析 md 文档结构](https://github.com/pmjackjackson/MgJrJr/commit/fce62aa0f806e4ffcaa896d88a2349d6254c860b)
+- [轻量快速部署接口开源项目源码 源码开放包含本地部署步骤](https://github.com/pmjackjackson/MgJrJr/commit/c4e749cc859771b51d4da115c68a0ad172114143)

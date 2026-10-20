@@ -140,3 +140,4 @@
 - [农村宅基地翻建，翻新旧房需要提前办理审批手续](https://github.com/pmjackjackson/MgJrJr/commit/0d8da0ac904e2c900ef41d76aff72b0a056fa16e)
 - [生物制造产业前景广阔，产业化落地仍面临成本壁垒](https://github.com/pmjackjackson/MgJrJr/commit/86796816c397fd0d6c7a952bc5763e054d25cf85)
 - [婚恋平台监管升级如何规避婚恋消费套路](https://github.com/pmjackjackson/MgJrJr/commit/d2ab20c349a143cf43fdad4e5b7701e1664ec55f)
+- [商业航天星上AI软件栈，抗辐射模型裁剪优化](https://github.com/pmjackjackson/MgJrJr/commit/3a3c071b9f283aed6d848af48b583964efa7ed1c)

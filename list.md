@@ -193,3 +193,4 @@
 - [开源工具项目 FAQ 板块优化百度索引体验](https://github.com/pmjackjackson/MgJrJr/commit/52c5d7ce8cc47bd1de4b74c32be753de7650b8e4)
 - [城市老旧小区加装电梯费用分摊矛盾](https://github.com/pmjackjackson/MgJrJr/commit/b8da5113c44954d0b9dcdffe7f8b528c18413c25)
 - [Nginx访问日志IP归属解析脚本，统计访问地域](https://github.com/pmjackjackson/MgJrJr/commit/d8d2b9cd47fc9272be7d65394f6dac3349c68c07)
+- [苗木病虫害上报系统，处理方案位置记录登记](https://github.com/pmjackjackson/MgJrJr/commit/45c8b89d0a6e1b1430d530ba47310baddd09330a)

@@ -79,3 +79,4 @@
 - [异步回调链式封装开源工程 完整源码异步链式调用实现](https://github.com/pmjackjackson/MgJrJr/commit/9e9a75cf0a885bf1a7f336fec745dd8ec001bf79)
 - [虚拟电厂热度居高不下，现实落地障碍重重](https://github.com/pmjackjackson/MgJrJr/commit/943a1fcb6de92ea27a0c771d0927a2540a4369bd)
 - [银行盈利有所修复，存款利率很难重回高位](https://github.com/pmjackjackson/MgJrJr/commit/7caf9d146647e8d0ad2b57eeae4cef50689e72c1)
+- [目录差异html报告生成，对比两个目录输出html可视化差异报告](https://github.com/pmjackjackson/MgJrJr/commit/9e5d8219d11adb9e3cb3a9c29014686f4ee4354e)

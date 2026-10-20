@@ -109,3 +109,4 @@
 - [Agent人类介入机制，何时需要人工接管任务](https://github.com/pmjackjackson/MgJrJr/commit/3d3bb7d0e6c22f3f27f9896e0ec3d16c2f77820b)
 - [体育用品出海提速国产运动品牌开拓海外市场空间](https://github.com/pmjackjackson/MgJrJr/commit/3b2b5e8b2f87dfda75cabe4ec5511d344b6f2715)
 - [tls证书证书密钥匹配校验，批量校验证书与私钥是否配对](https://github.com/pmjackjackson/MgJrJr/commit/93a4ca0d7826734846f91aca8afa50ff7d3edf31)
+- [数据研发辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/pmjackjackson/MgJrJr/commit/6dc786004fe54be6eaa38d4896e45393ad4a2aed)

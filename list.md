@@ -112,3 +112,4 @@
 - [数据研发辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/pmjackjackson/MgJrJr/commit/6dc786004fe54be6eaa38d4896e45393ad4a2aed)
 - [轻量功能脚本开源合集 源码配套运行异常捕获处理示例](https://github.com/pmjackjackson/MgJrJr/commit/f164092059d0120382c2e1fcc35168f993892d2e)
 - [爬虫项目缺少限流，跑崩目标站点被封禁IP](https://github.com/pmjackjackson/MgJrJr/commit/1e4903bb141345222390bdd2702958bce3d13c2d)
+- [竞业限制是什么普通打工人需要留意哪些坑](https://github.com/pmjackjackson/MgJrJr/commit/7949fae00daf2800ec0d409ff6ca069dc6688d94)

@@ -189,3 +189,4 @@
 - [本地csr请求subject‑alt‑name解析，解析csr内san扩展字段](https://github.com/pmjackjackson/MgJrJr/commit/0dfcb81b88965995ab73db75e9284c1363d0b2d8)
 - [家庭应急物资储备普及，居民防灾意识提升](https://github.com/pmjackjackson/MgJrJr/commit/084361fdd9f2e533679114219d0004e54c025353)
 - [HTTP3 简易客户端工程 完整源码 quic 协议简单访问](https://github.com/pmjackjackson/MgJrJr/commit/893f758a11350ec6b2bb5dcef73b059b6f8c8b9d)
+- [内需提振需要打通收入预期消费完整链条](https://github.com/pmjackjackson/MgJrJr/commit/67afc52d54b9fd531bda2d92067d3c529ac3db68)

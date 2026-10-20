@@ -167,3 +167,4 @@
 - [摄像头设备枚举工具，枚举本地摄像头分辨率支持列表](https://github.com/pmjackjackson/MgJrJr/commit/33c4bc1700f7a0a43a267071787c798dfbe7d44e)
 - [农房抵押贷款试点，农村资产盘活新途径](https://github.com/pmjackjackson/MgJrJr/commit/8e111433880f86386ffca3840aecb0da290af4fb)
 - [无框架极简示例开源库 完整源码适合入门学习二次迭代](https://github.com/pmjackjackson/MgJrJr/commit/35ac4321aaf3880a65b12873498235c48755c68c)
+- [云原生AI长驻服务内存泄漏定位排查手段](https://github.com/pmjackjackson/MgJrJr/commit/f32cc18189fa623b5a81f2480ab022f6c90472a2)

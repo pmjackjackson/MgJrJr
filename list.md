@@ -123,3 +123,4 @@
 - [真实业务模拟开源案例仓库 可复用源码与模块集成指南](https://github.com/pmjackjackson/MgJrJr/commit/2f2e5dc77fc15dd387f21b546c36a51fb8387edd)
 - [字幕时间轴偏移缩放脚本，批量修正字幕错位适配视频](https://github.com/pmjackjackson/MgJrJr/commit/424a3e3db740c26d150029ed4fbb1fc5952651bb)
 - [银发经济赛道火热，但盈利模式尚未成熟](https://github.com/pmjackjackson/MgJrJr/commit/3787ce06463dd504b5b0d316dae7c2bda14ebc4d)
+- [商业卫星批量组网卫星互联网民用场景加速落地](https://github.com/pmjackjackson/MgJrJr/commit/fcd0cc7593a36e34d9635e09c405c11512255086)

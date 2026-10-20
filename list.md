@@ -33,3 +33,4 @@
 - [tcpdump抓包简易解析，解析pcap抓包输出可读http内容](https://github.com/pmjackjackson/MgJrJr/commit/cf048ca0445ff0bd94eccd46eaff7e2cbb549393)
 - [物理世界对抗样本，传感器欺骗诱导智能体行为](https://github.com/pmjackjackson/MgJrJr/commit/44ac49f7050fc7f0fbb19d2c0db7fec8234efcf5)
 - [存款搬家背景下，普通家庭稳健资产配置思路](https://github.com/pmjackjackson/MgJrJr/commit/aa1a5024e4b2facb508696ea86c43a42c1628cd8)
+- [git补丁差异预览工具，预览patch补丁变更内容不应用](https://github.com/pmjackjackson/MgJrJr/commit/e9e70982593e09fbbc41a0559d14176a9a508748)

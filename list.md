@@ -125,3 +125,4 @@
 - [银发经济赛道火热，但盈利模式尚未成熟](https://github.com/pmjackjackson/MgJrJr/commit/3787ce06463dd504b5b0d316dae7c2bda14ebc4d)
 - [商业卫星批量组网卫星互联网民用场景加速落地](https://github.com/pmjackjackson/MgJrJr/commit/fcd0cc7593a36e34d9635e09c405c11512255086)
 - [局域网点对点高速文件传输，大文件分发无需外网跨设备传输](https://github.com/pmjackjackson/MgJrJr/commit/92dd8b157a1e4f26432d35c0e82ac81b8911482f)
+- [mysql视图批量导出工具，批量导出数据库全部视图定义](https://github.com/pmjackjackson/MgJrJr/commit/584ed52e40eb2082cc6013a122ae00e6d936609b)

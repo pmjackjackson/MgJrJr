@@ -117,3 +117,4 @@
 - [本地smtp报文解析工具，解析原始smtp邮件报文提取内容](https://github.com/pmjackjackson/MgJrJr/commit/a8276c4493ff1d37d3490d28b8d5c95361732796)
 - [内网自签CA证书生成工具，批量签发HTTPS内网测试证书](https://github.com/pmjackjackson/MgJrJr/commit/9688e13baacecd97a87a8704455a95fe8ce76dfb)
 - [GPG签名提交，Windows环境GPG签名配置复杂](https://github.com/pmjackjackson/MgJrJr/commit/7ba2043a463e99f9be11bd5e95b65537b7b10037)
+- [楼市新模式推进，租购并举对普通人意味着什么](https://github.com/pmjackjackson/MgJrJr/commit/5a0f5b4e3f2d40c553ecdbf5aec2ae3931edd7a2)

@@ -144,3 +144,4 @@
 - [硬件AI加速芯片内卷，国产加速软件栈生态短板](https://github.com/pmjackjackson/MgJrJr/commit/13e5169fa699b82d35b719fc2b7bed237c735e97)
 - [实体经济发展，如何引导资本更多投向实体而非投机](https://github.com/pmjackjackson/MgJrJr/commit/88c5f5a671fc3952ee0b445d539127350daf31a9)
 - [可定制工具源码库 全套源码附本地上手实战案例](https://github.com/pmjackjackson/MgJrJr/commit/08d68a44a1b6f4bec34b746791881710fd5d77dc)
+- [批量生成测试用例开源仓库 完整源码自动生成业务测试案例](https://github.com/pmjackjackson/MgJrJr/commit/44e18704df6da55c6bfafbc15088c48620c2dbf1)

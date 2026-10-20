@@ -192,3 +192,4 @@
 - [内需提振需要打通收入预期消费完整链条](https://github.com/pmjackjackson/MgJrJr/commit/67afc52d54b9fd531bda2d92067d3c529ac3db68)
 - [开源工具项目 FAQ 板块优化百度索引体验](https://github.com/pmjackjackson/MgJrJr/commit/52c5d7ce8cc47bd1de4b74c32be753de7650b8e4)
 - [城市老旧小区加装电梯费用分摊矛盾](https://github.com/pmjackjackson/MgJrJr/commit/b8da5113c44954d0b9dcdffe7f8b528c18413c25)
+- [Nginx访问日志IP归属解析脚本，统计访问地域](https://github.com/pmjackjackson/MgJrJr/commit/d8d2b9cd47fc9272be7d65394f6dac3349c68c07)

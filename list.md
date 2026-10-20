@@ -141,3 +141,4 @@
 - [生物制造产业前景广阔，产业化落地仍面临成本壁垒](https://github.com/pmjackjackson/MgJrJr/commit/86796816c397fd0d6c7a952bc5763e054d25cf85)
 - [婚恋平台监管升级如何规避婚恋消费套路](https://github.com/pmjackjackson/MgJrJr/commit/d2ab20c349a143cf43fdad4e5b7701e1664ec55f)
 - [商业航天星上AI软件栈，抗辐射模型裁剪优化](https://github.com/pmjackjackson/MgJrJr/commit/3a3c071b9f283aed6d848af48b583964efa7ed1c)
+- [硬件AI加速芯片内卷，国产加速软件栈生态短板](https://github.com/pmjackjackson/MgJrJr/commit/13e5169fa699b82d35b719fc2b7bed237c735e97)

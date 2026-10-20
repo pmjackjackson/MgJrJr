@@ -72,3 +72,4 @@
 - [多文件全局查找替换源码 完整源码批量修改多个文档内容](https://github.com/pmjackjackson/MgJrJr/commit/3d3a79f13f75dece240a1c59bc9dbbb69dfee334)
 - [金价屡创新高，千万别冲动all in黄金](https://github.com/pmjackjackson/MgJrJr/commit/14094eb8c6ea3cfe91b998e4bbca9c5ee1867d67)
 - [养老理财产品风险识别方法](https://github.com/pmjackjackson/MgJrJr/commit/85361725b06917ff5d7a4b8711ea2878357aae07)
+- [浏览器本地AI增强工具集，网页摘要翻译改写问答全部离线运行](https://github.com/pmjackjackson/MgJrJr/commit/a236dd01340d09447c1432d3c6f26db590e4f351)

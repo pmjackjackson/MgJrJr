@@ -178,3 +178,4 @@
 - [高校专业调整，怎样适配产业真实岗位的人才缺口](https://github.com/pmjackjackson/MgJrJr/commit/b52dec003f97a495e0ad784253feb3edef040e07)
 - [高效缓存 Demo 实战开源源码合集 完整工程附带二次开发样例](https://github.com/pmjackjackson/MgJrJr/commit/64720aefb512b1a65030f4a20f84b7f888bb5703)
 - [数字孪生与世界模型结合，仿真推演可信度约束](https://github.com/pmjackjackson/MgJrJr/commit/e05efb0c9062ba57cd2545f2b156ce620bec638f)
+- [开源项目文档加入日志查看定位故障的方法](https://github.com/pmjackjackson/MgJrJr/commit/0258ffa33f60e1f29eddb5c608a1e315f575b887)

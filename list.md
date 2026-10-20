@@ -173,3 +173,4 @@
 - [普通人要不要参与可转债投资转债风险要点科普](https://github.com/pmjackjackson/MgJrJr/commit/621ee8eecf8c48d6d7d9da77d15d89fe68c4e299)
 - [开箱可用开源工程合集 全套源码配套异常问题汇总](https://github.com/pmjackjackson/MgJrJr/commit/3b38492a413590a71eb199f45dc433dc7d59bd8c)
 - [开源项目AI辅助开发，如何规避版权风险](https://github.com/pmjackjackson/MgJrJr/commit/6b127b134a48fc941ea7cd8ad4fc780f7cd34e4c)
+- [终端日志颜色分级开源仓库 完整源码区分不同级别日志色彩](https://github.com/pmjackjackson/MgJrJr/commit/ef9a7857f3e52483154297f00e45ae5f1052cca1)

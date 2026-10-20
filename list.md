@@ -20,3 +20,4 @@
 - [静态博客快速生成器，Markdown源文件渲染站点自带搜索](https://github.com/pmjackjackson/MgJrJr/commit/20446c4aeda64a3cec85b0ccbf9fa7665b203c3e)
 - [平台算法透明度立法，劳动者工时算法监管](https://github.com/pmjackjackson/MgJrJr/commit/08b1c8e91baacfebb760782269521f21db3212b3)
 - [成人继续教育市场乱象整治要点](https://github.com/pmjackjackson/MgJrJr/commit/61a1e3f4799ccfa683a8c6ea1f4cdb2965e7e155)
+- [AI超融合一体机，边缘私有化快速部署方案](https://github.com/pmjackjackson/MgJrJr/commit/8cd013c2b3d08ace2e126f146b7116c574a4d161)

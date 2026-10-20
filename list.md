@@ -91,3 +91,4 @@
 - [本地文本gb18030 utf‑8互转工具，批量完成文本编码转换](https://github.com/pmjackjackson/MgJrJr/commit/28ab6df471c96b20a7cd586c49bc61be9f465b3c)
 - [最大努力通知工程 完整源码重试实现最大努力通知](https://github.com/pmjackjackson/MgJrJr/commit/da240d15a867d03f2a77d8603ab9592e96352e7b)
 - [内需提振，需要打通收入、预期、消费完整链条](https://github.com/pmjackjackson/MgJrJr/commit/c105d6c1e94a662744c29f5e21ea916c898d4416)
+- [srt字幕时间轴压缩扩展，整体缩放字幕全部时间轴](https://github.com/pmjackjackson/MgJrJr/commit/25f37b06cfa341c52bcc9f20ba49b55c066b36a1)

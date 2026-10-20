@@ -119,3 +119,4 @@
 - [GPG签名提交，Windows环境GPG签名配置复杂](https://github.com/pmjackjackson/MgJrJr/commit/7ba2043a463e99f9be11bd5e95b65537b7b10037)
 - [楼市新模式推进，租购并举对普通人意味着什么](https://github.com/pmjackjackson/MgJrJr/commit/5a0f5b4e3f2d40c553ecdbf5aec2ae3931edd7a2)
 - [模拟业务场景开源源码 项目实例含多系统环境排错方案](https://github.com/pmjackjackson/MgJrJr/commit/665834e1fb85756cd76be1dc8bc04260f94e8674)
+- [进城落户孩子上学，居住证和社保年限要求汇总](https://github.com/pmjackjackson/MgJrJr/commit/2848cab7045fbbe1d9f85a374aff736cad087355)

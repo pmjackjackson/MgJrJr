@@ -60,3 +60,4 @@
 - [音频增益批量调节脚本，统一音频音量大小](https://github.com/pmjackjackson/MgJrJr/commit/159877c48ffdaaa27349ca65e765ab18b25a2e25)
 - [算力产业高速扩张，电力供给能否匹配产业发展需求](https://github.com/pmjackjackson/MgJrJr/commit/422116deb1552119d81e56ef1e3834bd7690a586)
 - [二手汽车流通扩容，二手车车况溯源体系](https://github.com/pmjackjackson/MgJrJr/commit/db3a618081bd6100cfc25186b5035766a066035e)
+- [GitHub 公开知识库加速百度蜘蛛抓取小技巧](https://github.com/pmjackjackson/MgJrJr/commit/7484e3358adb51541924a20ad343b316b21b7666)

@@ -56,3 +56,4 @@
 - [轻量快速部署接口开源项目源码 源码开放包含本地部署步骤](https://github.com/pmjackjackson/MgJrJr/commit/c4e749cc859771b51d4da115c68a0ad172114143)
 - [高质量 GitHub 实战源码项目 源码开放附带调试排错文档](https://github.com/pmjackjackson/MgJrJr/commit/9c4bac4a75f5e6e14e1f70493b4e9ce29f53d2d7)
 - [数据要素政策密集落地，商业化变现依旧难产](https://github.com/pmjackjackson/MgJrJr/commit/d2ff8e9c597954ea4db21c83fa782e0721cc3ff3)
+- [简易生成器开源项目 完整源码生成模拟测试业务数据](https://github.com/pmjackjackson/MgJrJr/commit/2c4ed5f8186e0618d809d89f5993765f3987b27f)

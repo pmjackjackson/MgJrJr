@@ -26,3 +26,4 @@
 - [多功能练手开源参考项目 全套源码附日志异常修复方案](https://github.com/pmjackjackson/MgJrJr/commit/dc6c481d3fe1f2ba1e0f4d2a3d6a0d3d881116c5)
 - [异步任务异常捕获 Demo 完整源码捕获异步抛出异常](https://github.com/pmjackjackson/MgJrJr/commit/a66a73d8dae7a9b131143deeb568f1321999395e)
 - [URL 编码表单解析源码 完整源码解析 application/x‑www‑form‑data](https://github.com/pmjackjackson/MgJrJr/commit/43cdf0464fde42b2f3b35af11535596799387a3b)
+- [图片色彩拾取统计工具，统计图片主色调色值输出色板](https://github.com/pmjackjackson/MgJrJr/commit/3553e5551a384f684b0ce53bb74bac17da310f69)

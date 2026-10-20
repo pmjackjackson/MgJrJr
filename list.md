@@ -14,3 +14,4 @@
 - [校园活动抽签系统，名单导入随机抽签记录导出](https://github.com/pmjackjackson/MgJrJr/commit/40d6148d3c5198a8a46bc759709774fadab67e4a)
 - [工业AI视觉检测，小样本缺陷识别工程难点](https://github.com/pmjackjackson/MgJrJr/commit/c16096c795124384e9f8822616f53779a012e791)
 - [消费升级与降级并存，市场分层愈发明显](https://github.com/pmjackjackson/MgJrJr/commit/80cad1accecf0be1da564c877cd8eb8295e1c435)
+- [高质量全栈开源资源合集 源码资源含故障排查完整教程](https://github.com/pmjackjackson/MgJrJr/commit/1e9c6bfc73447af297c2565336621c5bb496abb1)

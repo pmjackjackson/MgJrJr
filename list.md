@@ -174,3 +174,4 @@
 - [开箱可用开源工程合集 全套源码配套异常问题汇总](https://github.com/pmjackjackson/MgJrJr/commit/3b38492a413590a71eb199f45dc433dc7d59bd8c)
 - [开源项目AI辅助开发，如何规避版权风险](https://github.com/pmjackjackson/MgJrJr/commit/6b127b134a48fc941ea7cd8ad4fc780f7cd34e4c)
 - [终端日志颜色分级开源仓库 完整源码区分不同级别日志色彩](https://github.com/pmjackjackson/MgJrJr/commit/ef9a7857f3e52483154297f00e45ae5f1052cca1)
+- [居民资产配置趋于保守，避险需求持续抬升](https://github.com/pmjackjackson/MgJrJr/commit/9c41d8f0531c9650c5711824291b50205a4ac8ab)

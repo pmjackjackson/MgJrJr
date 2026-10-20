@@ -99,3 +99,4 @@
 - [工业母机喊了多年，突破依旧阻力重重](https://github.com/pmjackjackson/MgJrJr/commit/f389daa23cbf6748e9dd117ba592e5bf18890b03)
 - [通用场景开源解决方案仓库 完整源码附多版本依赖兼容适配](https://github.com/pmjackjackson/MgJrJr/commit/49b81f726873f4f6c5fc5b6f76bd64f5335009fb)
 - [邻里噪音纠纷，遇到噪音扰民普通人维权途径](https://github.com/pmjackjackson/MgJrJr/commit/d54eb1bd59caca7b63e8a7669aa15670975c4786)
+- [github仓库依赖项扫描导出，导出仓库依赖项版本风险告警](https://github.com/pmjackjackson/MgJrJr/commit/93c2f12cb8ace8790cf9c8a287c6f979a5e56470)

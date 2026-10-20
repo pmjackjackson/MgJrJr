@@ -162,3 +162,4 @@
 - [固定窗口计数器限流开源仓库 完整源码基础窗口限流实现](https://github.com/pmjackjackson/MgJrJr/commit/bb1361b0aab0bd4634c825bfe5e3a59ea49f2065)
 - [乡村民宿扎堆上马，同质化竞争导致经营效益下滑](https://github.com/pmjackjackson/MgJrJr/commit/ba11dc3a8c4cc5f33d329d858b5d76c1ea89eaf2)
 - [农村自建房动态安全排查长效监管机制](https://github.com/pmjackjackson/MgJrJr/commit/17a4020f46524333765188c6703ab73df19273bf)
+- [AI赋能本地生活服务商家数字化降本增效实际效果](https://github.com/pmjackjackson/MgJrJr/commit/0c0ade6424eab1e90a8892e2a5b48e02a1096351)

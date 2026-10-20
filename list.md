@@ -97,3 +97,4 @@
 - [农信体系改制加速地方农商行整合提升县域金融服务能力](https://github.com/pmjackjackson/MgJrJr/commit/00477626432ea994ef9b4e65ffa2a6ae31180a50)
 - [文旅市场火爆，中小文旅商户盈利普遍微薄](https://github.com/pmjackjackson/MgJrJr/commit/26dc2d32693c9cd4f56515f55bd7d4a138bef82f)
 - [工业母机喊了多年，突破依旧阻力重重](https://github.com/pmjackjackson/MgJrJr/commit/f389daa23cbf6748e9dd117ba592e5bf18890b03)
+- [通用场景开源解决方案仓库 完整源码附多版本依赖兼容适配](https://github.com/pmjackjackson/MgJrJr/commit/49b81f726873f4f6c5fc5b6f76bd64f5335009fb)

@@ -75,3 +75,4 @@
 - [浏览器本地AI增强工具集，网页摘要翻译改写问答全部离线运行](https://github.com/pmjackjackson/MgJrJr/commit/a236dd01340d09447c1432d3c6f26db590e4f351)
 - [开源PDF处理库，解析渲染各类PDF异常文件](https://github.com/pmjackjackson/MgJrJr/commit/aab1b2d06b60d070d165f6133f6bc95f70f576ac)
 - [轻量快速搭建开源项目源码 源码开放包含本地快速部署步骤](https://github.com/pmjackjackson/MgJrJr/commit/2c1ba6f196f3c73d010865a240027fd139fbe692)
+- [具身智能人形机器人软件栈工程化落地难点](https://github.com/pmjackjackson/MgJrJr/commit/d77212b9b28b28fab673802198e2397861f5dca6)

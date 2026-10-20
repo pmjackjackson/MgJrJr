@@ -36,3 +36,4 @@
 - [git补丁差异预览工具，预览patch补丁变更内容不应用](https://github.com/pmjackjackson/MgJrJr/commit/e9e70982593e09fbbc41a0559d14176a9a508748)
 - [C/C++开源项目，系统库版本差异编译失败](https://github.com/pmjackjackson/MgJrJr/commit/780ef331d6ea28f171e0a122e302815c84b20918)
 - [接口自动化实战源码集合 完整实现代码与接口报错排查](https://github.com/pmjackjackson/MgJrJr/commit/2e9239a69fa711081c2484dd3313a5e457266871)
+- [户用光伏行业调整补贴退坡之后行业内生增长路径](https://github.com/pmjackjackson/MgJrJr/commit/c45f896842be52e02ed28b533e86fb1c5e488c93)
